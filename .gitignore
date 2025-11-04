@@ -1,0 +1,5 @@
+# ignore claude code workflow files
+.spec-workflow/
+
+# ignore example files
+examples/
